@@ -1,6 +1,6 @@
-import thumb1 from "../assets/img/featured-pic-1.jpeg";
-import thumb2 from "../assets/img/featured-pic-2.jpeg";
-import thumb3 from "../assets/img/featured-pic-3.jpeg";
+import thumb1 from "../../assets/img/featured-pic-1.jpeg";
+import thumb2 from "../../assets/img/featured-pic-2.jpeg";
+import thumb3 from "../../assets/img/featured-pic-3.jpeg";
 
 const initState = {
   post: {
